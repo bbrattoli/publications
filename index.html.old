@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-24712354-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-24712354-1');
+</script>
+-->
+
+<link rel="stylesheet" href="files/bm2.css" type="text/css">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Biagio Brattoli</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Biagio Brattoli is PhD student in Computer Vision and Deep Learning at HCI, Heidelberg (de), in the CompVis group lead by Professor Ommer.">
+<meta name="Keywords" content="Computer Vision Machine Deep Learning">
+
+</head>
+
+
+<body>
+<div align="center">
+
+<div align="center">
+    <table>
+    <tbody><tr>
+    <td><img class="photo_of_me" src="./images/profile.png" width="180px" style="border: 1px solid black; float:left; margin-right:15px"></td>
+    <td>
+    <div id="DocInfo">
+        <h1>Biagio Brattoli</h1>
+            <b>biagio.brattoli</b> (at) <b>gmail</b> (dot) <b>com</b><br>
+        <!-- <a href="">Google Scholar</a> / <a href="">LinkedIn</a> / <a href="">GitHub</a>-->
+    </div><br>
+    </td>
+    </tr>
+    </tbody></table>
+
+
+    <!-- <h2>About me</h2>
+    <p>
+        I am a PhD student at <a href="https://hci.iwr.uni-heidelberg.de/compvis">Computer Vision</a> group at Heidelberg University under the supervision of <a href="https://hci.iwr.uni-heidelberg.de/Staff/bommer">Björn Ommer</a>.
+    </p>-->
+</div>
+
+<!-- <hr>
+<div class="section_div">
+    <h2>News</h2>
+    <p>
+    &#9659; 2 papers accepted at CVPR 2019.
+    </p>
+    <p>
+    &#9659; My team finished 10th (out of 2131 teams) in <a href="https://www.kaggle.com/c/humpback-whale-identification/leaderboard">Humpback Whale Identification challenge</a> on Kaggle. <a href="https://twitter.com/artsiom_s/status/1101650567825375237">Tweet</a>.
+</p>
+    <p>
+        &#9659; Our paper <a href="https://compvis.github.io/adaptive-style-transfer">A Style-Aware Content Loss for Real-time HD Style Transfer</a> was accepted as Oral at ECCV 2018.
+    </p>
+</div>
+<hr>-->
+
+
+
+<div align="center">
+
+<h2>Publications</h2>
+
+<h3>2014</h3>
+
+<table><tbody>
+<tr>
+    <td class="pub_td1">
+        <div class="teaser_img_div">
+            <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Brattoli_LSTM_Self-Supervision_for_CVPR_2017_paper.pdf"><img class="teaser_img" src="./images/cvpr17.png"></a>
+        </div>
+    </td>
+    <td class="pub_td2">
+        <b>LSTM Self-Supervision for Detailed Behavior Analysis</b>
+        <br>
+        Biagio Brattoli*, Uta Büchler*, .., Björn Ommer
+        <br>
+        <i>Computer Vision and Pattern Recognition (CVPR)</i>, 2017.
+        <br>
+        [<a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Brattoli_LSTM_Self-Supervision_for_CVPR_2017_paper.pdf">Paper</a>][<a href="">Website</a>][<a href="">Code</a>]
+    </td>
+</tr>
+</tbody></table>
+</div>
+
+
+</div></body></html>
